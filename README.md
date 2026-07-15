@@ -1,2 +1,34 @@
-# 617e70ef-hr-recruiting-quiz-and-train
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Hr &amp; Recruiting Quiz And Training — fully configured and ready to use - Slash com
+# HR & Recruiting Quiz and Training Discord Bot
+
+Interactive quizzes, skill assessments, leaderboards, and certification tracking. Gamified learning for HR & Recruiting teams.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00wbJ1eTt0bW6xyfQ8cZM1A)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wbJ1eTt0bW6xyfQ8cZM1A)
+
